@@ -50,7 +50,7 @@ There are 5 notebooks available to answer the questions above. Each of the noteb
 
 ## Results
 
-The main findings of the analysis are discussed in the blog post available here.
+The main findings of the analysis are discussed in the blog post **"How To Get Useful Insights From Airbnb Reviews"** available [here](https://medium.com/@loredana.fattorini90/how-to-get-useful-insights-from-airbnb-reviews-817e65357324).
 
 ## Licensing, Authors, Acknowledgements
 

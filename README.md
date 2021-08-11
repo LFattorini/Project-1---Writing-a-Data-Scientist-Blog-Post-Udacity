@@ -50,7 +50,7 @@ There are 5 notebooks available to answer the questions above. Each of the noteb
 
 ## Results
 
-The main findings of the code are discussed in the blog post available here.
+The main findings of the analysis are discussed in the blog post available here.
 
 ## Licensing, Authors, Acknowledgements
 

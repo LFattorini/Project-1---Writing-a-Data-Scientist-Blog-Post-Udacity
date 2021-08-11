@@ -28,7 +28,7 @@ The analysis has been run on JupiterLab using Python 3.9..
 
 ## Project Goal
 
-For this project, I chose the Airbnb dataset of the city of Florence. Specifically, I attempted to answer the following questions, using the most popular Natural Language Processing techniques applied to reviews data:  
+For this project, I chose the Airbnb dataset of the city of Florence. Specifically, I attempted to answer the following questions using the most popular Natural Language Processing techniques applied to reviews data:  
 
 1. How do guests experience their stay in Airbnb in Florence? 
 2. What are the main topics in guest reviews? 

@@ -1,0 +1,2 @@
+# Project-1---Writing-a-Data-Scientist-Blog-Post-Udacity
+For this project, I chose the Airbnb dataset of the city of Florence. Specifically, I attempted to answer the following questions, using the most popular Natural Language Processing techniques applied to review data:  1. How do guests experience their stay in Airbnb in Florence? 2. What are the main topics in guest reviews? 3. How best to predict the topic of a new review?
